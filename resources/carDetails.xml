@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Car>
+    <id>501</id>
+    <make>Tesla</make>
+    <model>Model S</model>
+    <year>2024</year>
+    <color>Midnight Silver</color>
+    <engine>
+        <type>Electric</type>
+        <power>1020 HP</power>
+        <range>396 miles</range>
+    </engine>
+    <price currency="USD">94990</price>
+</Car>
